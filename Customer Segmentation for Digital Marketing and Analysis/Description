@@ -1,0 +1,20 @@
+This project applies K-Means clustering to analyse customer datasets. It first explores a 'Grocery' dataset, identifying spending patterns across product categories. Next, it examines a 'Customer' dataset, analysing purchase frequency and other financial behaviours to segment customers into distinct groups based on their transactional habits.
+
+
+
+The K-Means clustering in my project provides valuable insights by segmenting grocery customers based on spending habits across product categories (Fresh, Milk, Grocery); businesses can identify distinct customer groups, enabling targeted marketing. This enables the development of specific marketing campaigns for each cluster. For example, a cluster with high 'Fresh' and 'Milk' spending might respond well to promotions on organic produce, while a cluster with high 'Grocery' spending might be interested in bulk discounts or household staples. It also supports inventory management by optimising stock levels based on the purchasing patterns of identified customer segments.
+
+
+
+Clustering customers based on purchasing frequency and financial behaviours (e.g., balance, one-off purchases, instalments, cash advance frequency) supports customer segmentation by identifying segments such as frequent buyers, occasional shoppers, cash advance users, or those who prefer instalment plans. This enables a deeper understanding of diverse customer needs and behaviours. 
+
+
+
+Personalised Services: Tailoring product recommendations, credit offers, or loyalty programs to specific customer segments.
+
+Risk Assessment: Identifying customer groups that might be prone to defaulting or those who are highly profitable.
+
+
+
+Overall, the project demonstrates how K-Means clustering can transform raw transactional data into actionable business intelligence, leading to more informed decision-making and improved customer engagement strategies.
+
