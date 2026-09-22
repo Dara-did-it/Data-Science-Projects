@@ -1,0 +1,1 @@
+This project builds and compares linear regression models (standard, Lasso, and Ridge) to predict the likelihood of a patient contracting diabetes based on patient attributes.
